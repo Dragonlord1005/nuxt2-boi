@@ -1,7 +1,8 @@
 <template>
   <div>
-    <h1>Hi</h1>
-    <b-spinner label="Loading..."></b-spinner>
+    <main>
+      <h1>Hi</h1>
+    </main>
   </div>
 </template>
 
