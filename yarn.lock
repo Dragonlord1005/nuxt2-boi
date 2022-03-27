@@ -1668,7 +1668,7 @@
 "@nuxtjs/eslint-config-typescript@9.0.0":
   version "9.0.0"
   resolved "https://registry.yarnpkg.com/@nuxtjs/eslint-config-typescript/-/eslint-config-typescript-9.0.0.tgz#052355727e79cb8d4572d1b53a46980ac2aab93c"
-  integrity sha512-IgilIOcwJZ3Af4P7r35vHBl2GS9SIG0TuOINyUiIfzZBmEpX5vYhAbxHeeJhNosIywexDvZZ5m8EQwuJJYUJBg==
+  integrity "sha1-BSNVcn55y41FctG1OkaYCsKquTw= sha512-IgilIOcwJZ3Af4P7r35vHBl2GS9SIG0TuOINyUiIfzZBmEpX5vYhAbxHeeJhNosIywexDvZZ5m8EQwuJJYUJBg=="
   dependencies:
     "@nuxtjs/eslint-config" "9.0.0"
     "@typescript-eslint/eslint-plugin" "^5.14.0"
@@ -1678,7 +1678,7 @@
 "@nuxtjs/eslint-config@9.0.0":
   version "9.0.0"
   resolved "https://registry.yarnpkg.com/@nuxtjs/eslint-config/-/eslint-config-9.0.0.tgz#0c742103581fbf8ca76d74479bef0ce85ca97e69"
-  integrity sha512-S44hgSrAKEBJMmzg3Wes0uIZBASOgVAOnMYeNZNeeawRX1WpSS9w3WbqcIwjVL1Orx/XwrzMMH32A1ncEd/DQg==
+  integrity "sha1-DHQhA1gfv4ynbXRHm+8M6Fypfmk= sha512-S44hgSrAKEBJMmzg3Wes0uIZBASOgVAOnMYeNZNeeawRX1WpSS9w3WbqcIwjVL1Orx/XwrzMMH32A1ncEd/DQg=="
   dependencies:
     eslint-config-standard "^16.0.3"
     eslint-plugin-import "^2.25.4"
@@ -4855,7 +4855,7 @@ eslint-plugin-import@^2.25.4:
 eslint-plugin-jest@^26.1.1:
   version "26.1.3"
   resolved "https://registry.yarnpkg.com/eslint-plugin-jest/-/eslint-plugin-jest-26.1.3.tgz#e722e5efeea18aa9dec7c7349987b641db19feb7"
-  integrity sha512-Pju+T7MFpo5VFhFlwrkK/9jRUu18r2iugvgyrWOnnGRaVTFFmFXp+xFJpHyqmjjLmGJPKLeEFLVTAxezkApcpQ==
+  integrity "sha1-5yLl7+6hiqnex8c0mYe2QdsZ/rc= sha512-Pju+T7MFpo5VFhFlwrkK/9jRUu18r2iugvgyrWOnnGRaVTFFmFXp+xFJpHyqmjjLmGJPKLeEFLVTAxezkApcpQ=="
   dependencies:
     "@typescript-eslint/utils" "^5.10.0"
 
@@ -4883,12 +4883,12 @@ eslint-plugin-nuxt@3.2.0:
 eslint-plugin-promise@^6.0.0:
   version "6.0.0"
   resolved "https://registry.yarnpkg.com/eslint-plugin-promise/-/eslint-plugin-promise-6.0.0.tgz#017652c07c9816413a41e11c30adc42c3d55ff18"
-  integrity sha512-7GPezalm5Bfi/E22PnQxDWH2iW9GTvAlUNTztemeHb6c1BniSyoeTrM87JkC0wYdi6aQrZX9p2qEiAno8aTcbw==
+  integrity "sha1-AXZSwHyYFkE6QeEcMK3ELD1V/xg= sha512-7GPezalm5Bfi/E22PnQxDWH2iW9GTvAlUNTztemeHb6c1BniSyoeTrM87JkC0wYdi6aQrZX9p2qEiAno8aTcbw=="
 
 eslint-plugin-unicorn@^41.0.0:
   version "41.0.1"
   resolved "https://registry.yarnpkg.com/eslint-plugin-unicorn/-/eslint-plugin-unicorn-41.0.1.tgz#b49205b38e71e227d21fb5776f8d078a1dc637ca"
-  integrity sha512-gF5vo2dIj0YdNMQ/IMegiBkQdQ22GBFFVpdkJP+0og3w7XD4ypea0xQVRv6iofkLVR2w0phAdikcnU01ybd4Ow==
+  integrity "sha1-tJIFs45x4ifSH7V3b40Hih3GN8o= sha512-gF5vo2dIj0YdNMQ/IMegiBkQdQ22GBFFVpdkJP+0og3w7XD4ypea0xQVRv6iofkLVR2w0phAdikcnU01ybd4Ow=="
   dependencies:
     "@babel/helper-validator-identifier" "^7.15.7"
     ci-info "^3.3.0"
